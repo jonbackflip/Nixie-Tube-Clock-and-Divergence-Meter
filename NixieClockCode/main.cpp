@@ -7,7 +7,7 @@
 
 // Tube select pins
 //const uint8_t digitPins[NUM_TUBES] = { 2, 3, 4, 5, 6, 7, 8, 9 };
-const uint8_t digitPins[NUM_TUBES] = { 9, 8, 7, 6, 5, 4, 3, 2
+const uint8_t digitPins[NUM_TUBES] = { 9, 8, 7, 6, 5, 4, 3, 2};
 
 // Timing
 const uint32_t COUNT_INTERVAL = 100; // milliseconds
